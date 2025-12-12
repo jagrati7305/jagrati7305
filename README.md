@@ -1,4 +1,4 @@
-# Hi, I'm Jagrati!👋
+# 👋 Hi, I'm Jagrati!
 
 ## 💫 About Me:
 🚀 Developer exploring Flutter, C++, and real-world problem-solving<br>📘 Actively learning Data Structures & Algorithms (DSA) to strengthen my fundamentals<br>🎨 Passionate about building clean UI, intuitive apps, and experimenting with new tech
