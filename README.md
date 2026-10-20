@@ -1,14 +1,19 @@
 # 👋 Hi, I'm Jagrati!
+## ⚡**ECE Student | Hardware Development | Digital Design & FPGA**
+### 💫 About Me:
+- 🎓 Electronics and Communication Engineering student at IIT Patna.<br>
+- 🔌 Exploring Digital Electronics, RTL Design, FPGA Development, and Embedded Systems.<br>
+- 💻 Learning Verilog HDL to design and simulate digital circuits, sequential logic, and finite state machines.<br>
+- 🚀 Building hands-on projects to strengthen my understanding of digital systems, hardware design, and verification.
 
-## 💫 About Me:
-🚀 Developer exploring Flutter, C++, and real-world problem-solving<br>📘 Actively learning Data Structures & Algorithms (DSA) to strengthen my fundamentals<br>🎨 Passionate about building clean UI, intuitive apps, and experimenting with new tech
+---
+### 💻 Tech Stack:
+**HDLs:** ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-IEEE%201800-0057B7?style=flat-square) ![Verilog](https://img.shields.io/badge/Verilog-HDL-0057B7?style=flat-square)  
+**EDA:** ![Cadence Genus](https://img.shields.io/badge/Cadence-Genus%20%26%20Innovus-DC143C?style=flat-square)  
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-
-## 🌐 Socials:
+---
+### 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagrati07.work@gmail.com) 
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-
+---
